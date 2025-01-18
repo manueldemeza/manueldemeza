@@ -1,4 +1,4 @@
-### Hola 👋, Yo soy Manuel (actualizando 🔨)
+### Hola 👋, Yo soy Manuel Demeza(actualizando 🔨)
 #### Desarrollador Web
 Actualmente estudio ingeniería en comunicaciones y electrónica en el Instituto Politécnico Nacional, me gusta estar en continuo aprendizaje y pretendo aprender dentro de poco Programación en Python y mejorar mis habilidades en JavaScript y PHP, además de otras tecnologías como React, TypeScript o Docker. 🚀
 
